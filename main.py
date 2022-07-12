@@ -2,13 +2,13 @@ print('Hello world!')
 
 
 
-##### Úkol - Prozkoumej
+##### Úkol - Prozkoumej kód
 
-# Jaká část programu na řádku 1 je řetězec?
+# Jaká část příkazu na řádku 1 je řetězec?
  # Answer: 
 
-# Co bude výstupem programu na řádku 1?
+# Co vytiskne příkaz na řádku 1 do konzole?
  # Answer: 
 
-# Co by se stalo, pokud bych v programu na řádku 1 smazala závorku na konci?
+# Co by se stalo, pokud bych v příkazu na řádku 1 smazala závorku na konci?
  # Answer: 
