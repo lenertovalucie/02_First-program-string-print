@@ -14,4 +14,4 @@
 - nechybí ti uvozovky či závorky?
 - máš příkaz print malými písmeny?
 
-![úkol](assets/print.jpg)
+![úkol](assets/print.png)
